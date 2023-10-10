@@ -3,9 +3,7 @@
     max-height: 40rem;
     margin-left: 10rem;
 }
-html{
-    font-size: 62.5rem;
- }
+
 .container{
     margin-top: 5rem;
     display: flex;
@@ -13,10 +11,33 @@ html{
 }
 .left-container, .right-container {
     flex: 1;
-    padding: .8rem;
+    padding: .3rem;
     border: .1rem solid #ccc;
-  }
-
+}
+html{
+    font-size: 100%;
+}
 .h1{
     font-size: 2rem;
+}
+
+@media(max-width:998px){
+    html{
+        font-size: 55%;
+    }
+}
+@media(max-width:768px){
+    html{
+        font-size: 45%;
+    } 
+}
+@media(max-width:600px){
+    html{
+        font-size: 35%;
+    }
+}
+@media(max-width:360px){
+    html{
+        font-size: 25%;
+    }
 }
