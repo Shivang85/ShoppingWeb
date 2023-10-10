@@ -1,0 +1,42 @@
+nav{
+    background-color: #2F4F4F;
+}
+
+.h3{
+    text-align: center;
+    margin-left: 5rem;
+    padding: 5rem; 
+}
+.form{
+    margin-left: 5rem;
+}
+html{
+    font-size: 62.5%;
+}
+.icon{
+    margin-right: 10rem;
+    font-style: italic;
+    font-size: 4.5rem;
+    color: aliceblue;
+} 
+
+@media(max-width:998px){
+    html{
+        font-size: 55%;
+    }
+}
+@media(max-width:768px){
+    html{
+        font-size: 45%;
+    } 
+}
+@media(max-width:600px){
+    html{
+        font-size: 35%;
+    }
+}
+@media(max-width:360px){
+    html{
+        font-size: 25%;
+    }
+}
