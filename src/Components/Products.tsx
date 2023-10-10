@@ -28,6 +28,60 @@ function products() {
         <p className="text-center"><button className="btn btn-success">Buy Now</button>   <button className="btn btn-success">Add to Cart</button></p>
       </div>
       </div>
+      <div className="container">
+      <div className="left-container">
+        <h6>MuscleBlaze Creatine Monohydrate, Labdoor USA Certified Creatine (Unflavoured, 250 g / 0.55 lb, 83 Servings)</h6>
+        <img src={MbCreatine} alt="My Image" className="imgs"/>
+        <img src={creatine2} alt="My image" className="imgs"></img>
+        <p className="text-center">One-time purchase: ₹949.00 (₹379.60 /100 g)</p>
+        <p className="text-center"><button className="btn btn-success">Buy Now</button>   <button className="btn btn-success">Add to Cart</button>
+        </p>
+        
+      </div>
+      <div className="right-container">
+        <h6>MuscleBlaze Biozyme Performance | Clinically Tested 50% Higher Protein Absorption | Informed Choice UK, Labdoor USA Certified & US Patent Filed EAF® (Rich Chocolate, 2 kg / 4.4 lb)</h6>
+        <img src={Biozyme} alt="My image" className="imgs"></img>
+        <img src={biozyme2} alt="My image" className="imgs"></img>
+        <p className="text-center">One-time purchase: ₹3,899.00 (₹194.95 /100 g)</p>
+        <p className="text-center"><button className="btn btn-success">Buy Now</button>   <button className="btn btn-success">Add to Cart</button></p>
+      </div>
+      </div>
+      <div className="container">
+      <div className="left-container">
+        <h6>MuscleBlaze Creatine Monohydrate, Labdoor USA Certified Creatine (Unflavoured, 250 g / 0.55 lb, 83 Servings)</h6>
+        <img src={MbCreatine} alt="My Image" className="imgs"/>
+        <img src={creatine2} alt="My image" className="imgs"></img>
+        <p className="text-center">One-time purchase: ₹949.00 (₹379.60 /100 g)</p>
+        <p className="text-center"><button className="btn btn-success">Buy Now</button>   <button className="btn btn-success">Add to Cart</button>
+        </p>
+        
+      </div>
+      <div className="right-container">
+        <h6>MuscleBlaze Biozyme Performance | Clinically Tested 50% Higher Protein Absorption | Informed Choice UK, Labdoor USA Certified & US Patent Filed EAF® (Rich Chocolate, 2 kg / 4.4 lb)</h6>
+        <img src={Biozyme} alt="My image" className="imgs"></img>
+        <img src={biozyme2} alt="My image" className="imgs"></img>
+        <p className="text-center">One-time purchase: ₹3,899.00 (₹194.95 /100 g)</p>
+        <p className="text-center"><button className="btn btn-success">Buy Now</button>   <button className="btn btn-success">Add to Cart</button></p>
+      </div>
+      </div>
+      <div className="container">
+      <div className="left-container">
+        <h6>MuscleBlaze Creatine Monohydrate, Labdoor USA Certified Creatine (Unflavoured, 250 g / 0.55 lb, 83 Servings)</h6>
+        <img src={MbCreatine} alt="My Image" className="imgs"/>
+        <img src={creatine2} alt="My image" className="imgs"></img>
+        <p className="text-center">One-time purchase: ₹949.00 (₹379.60 /100 g)</p>
+        <p className="text-center"><button className="btn btn-success">Buy Now</button>   <button className="btn btn-success">Add to Cart</button>
+        </p>
+        
+      </div>
+      <div className="right-container">
+        <h6>MuscleBlaze Biozyme Performance | Clinically Tested 50% Higher Protein Absorption | Informed Choice UK, Labdoor USA Certified & US Patent Filed EAF® (Rich Chocolate, 2 kg / 4.4 lb)</h6>
+        <img src={Biozyme} alt="My image" className="imgs"></img>
+        <img src={biozyme2} alt="My image" className="imgs"></img>
+        <p className="text-center">One-time purchase: ₹3,899.00 (₹194.95 /100 g)</p>
+        <p className="text-center"><button className="btn btn-success">Buy Now</button>   <button className="btn btn-success">Add to Cart</button></p>
+      </div>
+      </div>     
     </>
   );
 }
