@@ -1,7 +1,6 @@
 nav{
     background-color: #2F4F4F;
 }
-
 .h3{
     text-align: center;
     margin-left: 5rem;
@@ -9,9 +8,6 @@ nav{
 }
 .form{
     margin-left: 5rem;
-}
-html{
-    font-size: 100%;
 }
 .icon{
     margin-right: 10rem;
